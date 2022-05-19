@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am ahmed badr*
+_i love programming_
+
+**i am also a pharmacist **
